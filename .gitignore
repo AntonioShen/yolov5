@@ -23,6 +23,7 @@
 !setup.cfg
 !cfg/yolov3*.cfg
 PAT.txt
+gpu-request.sh
 
 storage.googleapis.com
 runs/*
