@@ -24,6 +24,8 @@
 !cfg/yolov3*.cfg
 PAT.txt
 gpu-request.sh
+core.*
+DoorDetect-Dataset/
 
 storage.googleapis.com
 runs/*

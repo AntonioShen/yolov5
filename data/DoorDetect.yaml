@@ -1,0 +1,9 @@
+path: /home/xingshen/projects/def-six/xingshen/yolov5/DoorDetect-Dataset
+train: train1092
+val: train1092
+test: test121
+
+nc: 4
+names: ['door', 'handle', 'cabinet door', 'refrigerator door']
+
+download:
